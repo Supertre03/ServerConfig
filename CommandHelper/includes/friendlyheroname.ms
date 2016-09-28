@@ -317,7 +317,9 @@ proc(_friendlyHeroName, @class,
 	else if(@class == 'joker'){
         @fname = '§fJo§2k§5er'
     }
-    
+        else if(@class == 'blast'){
+        @fname = '§9Bl§ba§9st'
+
     if(@fname != '')
     {
         return(@fname)
