@@ -1,4 +1,4 @@
-kentnelson:/kentnelson = >>>
+doctorfatekentnelson:/kentnelson = >>>
     sudo(/effect player() 5 9999 20 true)
     sudo(/effect player() 10 9999 1 true)
     sudo(/effect player() 11 9999 3 true)
