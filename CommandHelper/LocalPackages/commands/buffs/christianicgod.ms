@@ -54,6 +54,8 @@
                 "/back",
                 "/confuse <player>",
                 "/top"
+                "When you punch with no item in hand, victims and/or the ground will be hit by God's Lightning",
+                "Since you control, and bend forces to your will as God, mobs do not attack you."
             ),
             'buffs': array(
                 "/effect ". @plr ." 5 9999 254 true",
